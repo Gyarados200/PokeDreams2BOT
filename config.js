@@ -17,8 +17,8 @@ exports.serverid = 'http://pokedreams5.glitch.me-80.psim.us/';
 
 // The nick and password to log in with
 // If no password is required, leave pass empty
-exports.nick = 'Example bot nick';
-exports.pass = '';
+exports.nick = 'PokeDreamz';
+exports.pass = 'pokedreams';
 
 // The rooms that should be joined.
 // Joining Smogon's Showdown's Lobby is not allowed.
