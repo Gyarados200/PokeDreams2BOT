@@ -4,7 +4,7 @@
 // If you really don't know how to do this... Run `node getserver.js URL`.
 // Fill in the URL of the client where `URL` is.
 // For example: `node getserver.js http://example-server.psim.us/`
-exports.server = 'pokedreams5.glitch.me-80.psim.us';
+exports.server = 'pokedreams5.glitch.me';
 exports.port = 80;
 
 // This is the server id.
